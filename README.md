@@ -1,4 +1,4 @@
 demo
 ====
 
-a demo repo for learning git
+changed the readme file!
